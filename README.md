@@ -6,6 +6,13 @@
 
 1. "뮤즈메이트"는 음원 플레이리스트 공유에 중점을 둔 SNS(Social Networking Service)의 부재를 해소하고자 기획했다.
 
+##팀원
+
+| 이름   | 역할               | 깃허브                         |
+| ------ | ------------------ | ------------------------------ |
+| 손자민 | FE & BE 개발       | https://github.com/Minminjamin |
+| 진이정 | UI 디자인 &DB 개발 | https://github.com/Minminjamin |
+
 ## 주요 기능(예상)
 
 1. 회원가입 및 로그인
