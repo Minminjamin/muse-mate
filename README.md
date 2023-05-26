@@ -11,7 +11,7 @@
 | 이름   | 역할               | 깃허브                         |
 | ------ | ------------------ | ------------------------------ |
 | 손자민 | FE & BE 개발       | https://github.com/Minminjamin |
-| 진이정 | UI 디자인 &DB 개발 | https://github.com/Minminjamin |
+| 진이정 | UI 디자인 &DB 개발 | https://github.com/Jinleejung  |
 
 ## 주요 기능(예상)
 
