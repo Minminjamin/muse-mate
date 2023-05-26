@@ -1,6 +1,6 @@
 import React from "react";
 
-const SideMenu = () => {
+const SideMenuList = () => {
   return (
     <ul>
       <li>대충 메뉴 1</li>
@@ -10,4 +10,4 @@ const SideMenu = () => {
   );
 };
 
-export default SideMenu;
+export default SideMenuList;
