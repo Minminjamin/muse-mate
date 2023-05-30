@@ -5,12 +5,12 @@ const RecommendedPlaylists = () => {
     <div>
       <span>추천 플레이 리스트</span>
 
-      <div>
-        <div>추천 플리1</div>
-        <div>추천 플리2</div>
-        <div>추천 플리3</div>
-        <div>추천 플리4</div>
-      </div>
+      <ul>
+        <li>추천 플리 1</li>
+        <li>추천 플리 2</li>
+        <li>추천 플리 3</li>
+        <li>추천 플리 4</li>
+      </ul>
     </div>
   );
 };
