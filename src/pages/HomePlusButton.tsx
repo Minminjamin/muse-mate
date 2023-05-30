@@ -10,7 +10,7 @@ const HomePlusButton = () => {
     // 위에 아무튼 변수 넣기
   };
 
-  return <div onClick={onHandle}>+</div>;
+  return <button onClick={onHandle}>+</button>;
 };
 
 export default HomePlusButton;
