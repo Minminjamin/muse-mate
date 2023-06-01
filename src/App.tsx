@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import SideBar from "./routes/SideBar";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
