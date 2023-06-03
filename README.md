@@ -13,6 +13,9 @@
 | 손자민 | FE & BE 개발       | https://github.com/Minminjamin |
 | 진이정 | UI 디자인 &DB 개발 | https://github.com/Jinleejung  |
 
+##설계(임시)
+https://brave-bench-200.notion.site/ff93dae52678496c85fdd555da8fcecd?pvs=4
+
 ## 주요 기능(예상)
 
 1. 회원가입 및 로그인
