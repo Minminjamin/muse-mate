@@ -15,6 +15,7 @@
 
 ##설계(임시)
 https://brave-bench-200.notion.site/ff93dae52678496c85fdd555da8fcecd?pvs=4
+https://www.erdcloud.com/d/znMpjSHtHg5yXvjyE
 
 ## 주요 기능(예상)
 
