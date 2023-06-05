@@ -13,7 +13,10 @@
 | 손자민 | FE & BE 개발       | https://github.com/Minminjamin |
 | 진이정 | UI 디자인 &DB 개발 | https://github.com/Jinleejung  |
 
-##설계(임시)
+파일 등을 주고받아야 하므로 graphql보다는 rest api를 사용
+
+## 설계(임시)
+
 https://brave-bench-200.notion.site/ff93dae52678496c85fdd555da8fcecd?pvs=4
 https://www.erdcloud.com/d/znMpjSHtHg5yXvjyE
 
