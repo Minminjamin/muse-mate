@@ -19,6 +19,7 @@
 
 https://brave-bench-200.notion.site/ff93dae52678496c85fdd555da8fcecd?pvs=4
 https://www.erdcloud.com/d/znMpjSHtHg5yXvjyE
+https://brave-bench-200.notion.site/565b3e965b2d4284a1208903ea9572d2?pvs=4
 
 ## 주요 기능(예상)
 
